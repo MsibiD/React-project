@@ -1,0 +1,12 @@
+.Forecast {
+  text-align: center;
+  color: rgb(182, 11, 111);
+  margin: 10px;
+}
+
+.Forecast-temperature-min {
+  opacity: 0.6;
+  margin-left: 10px;
+  color: rgb(8, 75, 104);
+}
+
